@@ -1,0 +1,80 @@
+Test 0 CStr Successful
+Test 1 Length Successful
+Test 2 CharacterAt Successful
+Test 3 EqualTo Failed
+Test 4 Append Successful
+Test 5 Prepend Successful
+Test 6 ToLower Successful
+Test 7 ToUpper Successful
+Test 8 Find Successful
+Test 9 Find (from index) Successful
+Test 10 Replace Failed
+Test 11 ReadFromConsole Successful
+Test 12 WriteToConsole Successful
+Test 13 Equality Operator Failed
+Test 14 Subscript Operator Successful
+Test 15 LessThan Operator Successful
+Test 16 Assignment Operator Successful
+Thu Mar  7 15:03:55 2024
+Successful 82.3529%
+
+Test 0 CStr Successful
+Test 1 Length Successful
+Test 2 CharacterAt Successful
+Test 3 EqualTo Failed
+Test 4 Append Successful
+Test 5 Prepend Successful
+Test 6 ToLower Successful
+Test 7 ToUpper Successful
+Test 8 Find Successful
+Test 9 Find (from index) Successful
+Test 10 Replace Failed
+Test 11 ReadFromConsole Failed
+Test 12 WriteToConsole Failed
+Test 13 Equality Operator Failed
+Test 14 Subscript Operator Successful
+Test 15 LessThan Operator Successful
+Test 16 Assignment Operator Successful
+Thu Mar  7 15:53:47 2024
+Successful 70.5882%
+
+Test 0 CStr Successful
+Test 1 Length Successful
+Test 2 CharacterAt Failed
+Test 3 EqualTo Failed
+Test 4 Append Successful
+Test 5 Prepend Successful
+Test 6 ToLower Successful
+Test 7 ToUpper Successful
+Test 8 Find Successful
+Test 9 Find (from index) Successful
+Test 10 Replace Failed
+Test 11 ReadFromConsole Failed
+Test 12 WriteToConsole Failed
+Test 13 Equality Operator Failed
+Test 14 Subscript Operator Successful
+Test 15 LessThan Operator Successful
+Test 16 Assignment Operator Successful
+Thu Mar  7 16:15:14 2024
+Successful 64.7059%
+
+Test 0 CStr Successful
+Test 1 Length Successful
+Test 2 CharacterAt Successful
+Test 3 EqualTo Failed
+Test 4 Append Successful
+Test 5 Prepend Successful
+Test 6 ToLower Successful
+Test 7 ToUpper Successful
+Test 8 Find Successful
+Test 9 Find (from index) Successful
+Test 10 Replace Failed
+Test 11 ReadFromConsole Successful
+Test 12 WriteToConsole Successful
+Test 13 Equality Operator Failed
+Test 14 Subscript Operator Successful
+Test 15 LessThan Operator Successful
+Test 16 Assignment Operator Successful
+Thu Mar  7 17:44:18 2024
+Successful 82.3529%
+
