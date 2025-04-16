@@ -1,4 +1,4 @@
-# String Class Test Logger (C++)
+# CustomStringUtilityClassWithLogging (C++)
 
 This project extends upon the 'CustomStringUtilityClass', previously developed `String` utility class by adding an automated test logging system.  The program executes a suite of functionality tests and outputs results to a log file (`results.txt`) with timestamps and success metrics.  Designed as part of one of my early AIE assessments.
 
